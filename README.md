@@ -23,11 +23,11 @@
 - **Gemini API (Google AI)** – For natural language chatbot support  
 
 ---
-
 ## 📺 Demo Video
 
-🎥 [Watch Demo on YouTube]([https://www.youtube.com/watch?v=your-video-id](https://youtu.be/sp9ZFRi_iW8))  
-> 
-https://youtu.be/sp9ZFRi_iW8
+[![Watch on YouTube](https://img.youtube.com/vi/sp9ZFRi_iW8/0.jpg)](https://www.youtube.com/watch?v=sp9ZFRi_iW8)
+
+> Click the thumbnail above or [watch the full demo here](https://www.youtube.com/watch?v=sp9ZFRi_iW8)
+
 ---
 
