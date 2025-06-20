@@ -5,7 +5,7 @@ let imagebtn = document.querySelector("#image")
 let image = document.querySelector("#image img")
 let imageinput = document.querySelector("#image input")
 
-const Api_Url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyDaw-XJJUeK8J9wQ01UvwIOO0GUEIP-u7c"
+const Api_Url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=put_yor_key"
 
 let user = {
     message: null,
